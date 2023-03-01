@@ -1,0 +1,6 @@
+[submodule "speedr"]
+	path = speedr
+	url = https://github.com/ChobojaX/speedr.git
+[submodule "datapacks/speedr"]
+	path = datapacks/speedr
+	url = https://github.com/ChobojaX/speedr.git
