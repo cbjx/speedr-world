@@ -1,0 +1,15 @@
+{
+  "gameType": "ADVENTURE",
+  "difficulty": "EASY",
+  "privacy": "FRIENDS",
+  "cheats": true,
+  "invited": [
+    "516a2d86-cfae-4a59-a791-9131f4f01c3b",
+    "70433a0c-b34d-4c9e-998d-a72e2066cf3c",
+    "bf872343-0d7e-4820-85c7-a3a432e29ba4"
+  ],
+  "shareResourcePack": true,
+  "oppedPlayers": [
+    "1caac3fa-6f03-44ae-b879-690b8907a5bd"
+  ]
+}
