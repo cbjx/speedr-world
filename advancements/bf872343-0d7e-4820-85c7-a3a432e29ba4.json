@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/bullseye": {
+    "criteria": {
+      "bullseye": "2023-03-05 13:54:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2023-02-09 22:45:02 +0900"
@@ -1214,6 +1220,12 @@
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2023-02-04 20:58:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2023-03-03 23:17:47 +0900"
     },
     "done": true
   },
